@@ -18,5 +18,5 @@ ht-degree: 0%
 
 Acrobat Analyzer ist eine GenAI-native App, mit der Business-Anwender strukturierte, überprüfbare Erkenntnisse aus Zehntausenden unstrukturierter Dokumente extrahieren und so dokumentenzentrierte Geschäftsprozesse automatisieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3492260?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3492267?captions=ger&quality=12&learn=on&hidetitle=true)
 
