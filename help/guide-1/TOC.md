@@ -7,7 +7,8 @@ user-guide-description: Acrobat Analyzer Tutorials
 feature-set: Document Cloud
 feature: Use Cases, Workflow, Integrations
 auto-video-transcripts: true
-source-git-commit: ea28d99623ef66c77f0ef516d45215ab24fc5cbc
+nudge: true
+source-git-commit: e638225de4105ba26f29d078d39de41b9c3b1084
 workflow-type: tm+mt
 source-wordcount: '23'
 ht-degree: 8%
