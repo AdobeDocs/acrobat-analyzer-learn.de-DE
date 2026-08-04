@@ -1,6 +1,8 @@
 ---
 solution: Document Cloud
-product_v2: id: b12c730b-5ddb-4a2d-ba42-da774988b909id: c1c5fb98-9105-44ed-9df1-9e04d062a784
+product_v2:
+  - id: b12c730b-5ddb-4a2d-ba42-da774988b909
+  - id: c1c5fb98-9105-44ed-9df1-9e04d062a784
 usetq: true
 type: Tutorial
 mini-toc-levels: 2
