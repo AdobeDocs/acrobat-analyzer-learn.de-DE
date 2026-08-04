@@ -6,7 +6,7 @@ product_v2:
 usetq: true
 type: Tutorial
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/acrobat-analyser-learn.en
+git-repo: https://github.com/AdobeDocs/acrobat-analyser-learn.de-DE
 hide: false
 index: true
 source-git-commit: 8a621f8a9e2c0f31b2230e8d4fc6212dbb27dcdd
