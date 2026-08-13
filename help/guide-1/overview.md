@@ -6,7 +6,7 @@ role: User
 level: Beginner, Intermediate, Experienced
 jira: KT-21940
 product_v2: Adobe Acrobat Analyzer
-source-git-commit: cc92c9c3365e39f5900b78c3001adb658d233ca1
+source-git-commit: 0b000e0ac5ae93a4560f5886dcd63a865a138163
 workflow-type: tm+mt
 source-wordcount: '155'
 ht-degree: 1%
@@ -44,7 +44,7 @@ Erfahren Sie, wie Analyzer in Acrobat Studio Unternehmen dabei helfen kann, ein 
   </td>
   <td>
     <a href="m-and-a-post-audit.md">
-      <img alt="Analyzer in Acrobat Studio für M&amp;A nach Integration Vertragsrevision " src="assets/m-and-a.png" />
+      <img alt="Analyzer in Acrobat Studio für M&amp;A nach Integration Vertragsrevision " src="assets/m-and-a.jpg" />
     </a>
     <div>
     <a href="m-and-a-post-audit.md"><strong>Analyzer in Acrobat Studio für M&amp;A-Überwachung nach Integration des Vertrags </strong></a>
@@ -64,5 +64,3 @@ Erfahren Sie, wie Analyzer in Acrobat Studio Unternehmen dabei helfen kann, ein 
   </td>
 </tr>
 </table>
-
->[!VIDEO](https://video.tv.adobe.com/v/3492267?captions=ger&quality=12&learn=on&hidetitle=true)
