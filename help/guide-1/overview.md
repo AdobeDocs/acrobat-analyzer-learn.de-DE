@@ -65,4 +65,4 @@ Erfahren Sie, wie Analyzer in Acrobat Studio Unternehmen dabei helfen kann, ein 
 </tr>
 </table>
 
->[!VIDEO](https://video.tv.adobe.com/v/3492260?quality=12&learn=on&hidetitle=true)
+>[!VIDEO](https://video.tv.adobe.com/v/3492267?captions=ger&quality=12&learn=on&hidetitle=true)
